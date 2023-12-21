@@ -248,9 +248,7 @@ public class test {
 //        int c='4'-'0';
 //        System.out.println(c);
         System.out.println(5^2^0);
-        //this is tutu
-        // this is dahuang
-    }
+
 
 
 }
