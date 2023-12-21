@@ -20,9 +20,13 @@ public class test {
 //        inputStream.forEach(num -> System.out.print(num+","));
 
 
+
+
+
 //        ArrayList<Integer> list=new ArrayList<>(Arrays.asList(1, 2, 3));
 //        list.remove(2);
 //        System.out.println(list);
+
 
 
 //        String a="0";
@@ -41,7 +45,7 @@ public class test {
 //        // print reversed String
 //        System.out.println(input1);
 
-        //  'A'=65
+      //  'A'=65
 //        int a ='B'-'A';
 //        System.out.println(a);
 //        char b=(char)('A'+1);
@@ -244,6 +248,7 @@ public class test {
 //        int c='4'-'0';
 //        System.out.println(c);
         System.out.println(5 ^ 2 ^ 0);
+        //this is tutu
         //this is dahuang
 
     }
