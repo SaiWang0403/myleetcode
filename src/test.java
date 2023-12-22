@@ -249,7 +249,8 @@ public class test {
 //        System.out.println(c);
         System.out.println(5 ^ 2 ^ 0);
 //tutu
-//dahuang2
+        //dahuang1
+
     }
 }
 
